@@ -20,18 +20,3 @@
 
 </div>
 
----
-
-## Statistiques GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=frederictriquet&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-</div>
