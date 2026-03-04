@@ -26,9 +26,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frederictriquet&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederictriquet&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=frederictriquet&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
